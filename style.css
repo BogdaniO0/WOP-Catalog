@@ -92,11 +92,6 @@ nav a:hover {
     background-color: #ABC3FE;
 }
 
-.product img {
-    width: 208.96px;
-    height: 206px;
-}
-
 footer {
     background-color: #97b1f0;
     padding: 30px;
@@ -164,4 +159,14 @@ footer p {
 
 .dropdown:hover .dropbtn {
   background-color: #333;
+}
+
+footer img {
+    position: absolute;
+    margin-top: 45px;
+}
+
+.product img {
+    height: 200px;
+    width: 200px;
 }
